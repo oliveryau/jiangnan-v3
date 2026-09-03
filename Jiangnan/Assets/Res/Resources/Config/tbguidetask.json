@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "desc": "购买2张桌子",
+    "taskType": 2,
+    "param": [
+      2
+    ],
+    "unlock": []
+  },
+  {
+    "id": 2,
+    "desc": "购买厨房设施",
+    "taskType": 3,
+    "param": [
+      2
+    ],
+    "unlock": []
+  },
+  {
+    "id": 3,
+    "desc": "招聘掌柜",
+    "taskType": 4,
+    "param": [
+      1
+    ],
+    "unlock": []
+  },
+  {
+    "id": 4,
+    "desc": "招聘厨师",
+    "taskType": 5,
+    "param": [
+      1
+    ],
+    "unlock": []
+  },
+  {
+    "id": 5,
+    "desc": "招聘小二",
+    "taskType": 6,
+    "param": [
+      1
+    ],
+    "unlock": []
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "id": 101,
+    "name": "教小二自动点单",
+    "desc": "教小二自动点单，减少点单所用时间",
+    "techType": 99,
+    "param": [],
+    "unlock": [],
+    "cost": 1400,
+    "researchTime": 15,
+    "sortOrder": 101,
+    "remark": "小二",
+    "staffPosition": 3,
+    "staffEffect": 1,
+    "effName": "GOD_shengji_jin",
+    "icon": "diandan",
+    "staffEffectValue": 1
+  },
+  {
+    "id": 102,
+    "name": "教小二自动上菜",
+    "desc": "教小二自动上菜，减少上菜所用时间",
+    "techType": 99,
+    "param": [],
+    "unlock": [],
+    "cost": 1400,
+    "researchTime": 15,
+    "sortOrder": 102,
+    "remark": "小二",
+    "staffPosition": 3,
+    "staffEffect": 2,
+    "effName": "GOD_shengji_jin",
+    "icon": "shangcai",
+    "staffEffectValue": 1
+  },
+  {
+    "id": 103,
+    "name": "小二走路加速",
+    "desc": "小二移速加快",
+    "techType": 99,
+    "param": [],
+    "unlock": [],
+    "cost": 1400,
+    "researchTime": 15,
+    "sortOrder": 103,
+    "remark": "小二",
+    "staffPosition": 3,
+    "staffEffect": 4,
+    "effName": "GOD_shengji_jin",
+    "icon": "jiasu",
+    "staffEffectValue": 1300
+  },
+  {
+    "id": 104,
+    "name": "员工自发拉客",
+    "desc": "员工学会自动拉客，增加客流",
+    "techType": 17,
+    "param": [],
+    "unlock": [],
+    "cost": 1500,
+    "researchTime": 15,
+    "sortOrder": 103,
+    "remark": "客流",
+    "staffPosition": 3,
+    "staffEffect": 0,
+    "effName": "GOD_shengji_jin",
+    "icon": "lanke",
+    "staffEffectValue": 0
+  },
+  {
+    "id": 105,
+    "name": "贵客到来",
+    "desc": "贵客来临，见机管理",
+    "techType": 16,
+    "param": [],
+    "unlock": [],
+    "cost": 1500,
+    "researchTime": 15,
+    "sortOrder": 104,
+    "remark": "客流",
+    "staffEffect": 0,
+    "effName": "",
+    "icon": "guike",
+    "staffEffectValue": 0
+  },
+  {
+    "id": 106,
+    "name": "柜台进账",
+    "desc": "掌柜柜台理财产出金币",
+    "techType": 99,
+    "param": [],
+    "unlock": [],
+    "cost": 2000,
+    "researchTime": 15,
+    "sortOrder": 105,
+    "remark": "掌柜",
+    "staffPosition": 1,
+    "staffEffect": 10,
+    "effName": "GOD_shengji_jin",
+    "icon": "guitai",
+    "staffEffectValue": 1
+  },
+  {
+    "id": 1001,
+    "name": "延时打烊",
+    "desc": "营业时间翻倍",
+    "techType": 13,
+    "param": [
+      2000
+    ],
+    "unlock": [
+      111
+    ],
+    "cost": 900,
+    "researchTime": 4,
+    "sortOrder": 107,
+    "remark": "客流",
+    "staffEffect": 0,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 0
+  },
+  {
+    "id": 1002,
+    "name": "小费",
+    "desc": "全店结账小费+5%",
+    "techType": 10,
+    "param": [
+      5
+    ],
+    "unlock": [
+      201
+    ],
+    "cost": 700,
+    "researchTime": 3,
+    "sortOrder": 107,
+    "remark": "经营",
+    "staffEffect": 0,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 0
+  },
+  {
+    "id": 1003,
+    "name": "快点单",
+    "desc": "点单耗时×0.95",
+    "techType": 99,
+    "param": [],
+    "unlock": [
+      101
+    ],
+    "cost": 150,
+    "researchTime": 2,
+    "sortOrder": 107,
+    "remark": "小二",
+    "staffPosition": 3,
+    "staffEffect": 5,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 950
+  },
+  {
+    "id": 1004,
+    "name": "熟练厨师",
+    "desc": "做菜速度×1.22；研发鱼",
+    "techType": 99,
+    "param": [],
+    "unlock": [
+      111
+    ],
+    "cost": 350,
+    "researchTime": 3,
+    "sortOrder": 107,
+    "remark": "厨师",
+    "staffPosition": 2,
+    "staffEffect": 9,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 1220
+  },
+  {
+    "id": 1005,
+    "name": "快手厨",
+    "desc": "做菜速度×1.35；研发面条",
+    "techType": 99,
+    "param": [],
+    "unlock": [
+      112
+    ],
+    "cost": 400,
+    "researchTime": 3,
+    "sortOrder": 107,
+    "remark": "厨师",
+    "staffPosition": 2,
+    "staffEffect": 9,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 1350
+  },
+  {
+    "id": 1006,
+    "name": "金牌大厨",
+    "desc": "做菜速度×1.48；研发酒",
+    "techType": 99,
+    "param": [],
+    "unlock": [
+      113
+    ],
+    "cost": 500,
+    "researchTime": 3,
+    "sortOrder": 107,
+    "remark": "厨师",
+    "staffPosition": 2,
+    "staffEffect": 9,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 1480
+  },
+  {
+    "id": 1007,
+    "name": "镇店厨神",
+    "desc": "做菜速度×1.60；研发麻婆豆腐",
+    "techType": 99,
+    "param": [],
+    "unlock": [
+      114
+    ],
+    "cost": 600,
+    "researchTime": 4,
+    "sortOrder": 107,
+    "remark": "厨师",
+    "staffPosition": 2,
+    "staffEffect": 9,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 1600
+  },
+  {
+    "id": 1008,
+    "name": "掌勺学徒",
+    "desc": "做菜速度×1.12",
+    "techType": 99,
+    "param": [],
+    "unlock": [
+      103
+    ],
+    "cost": 300,
+    "researchTime": 2,
+    "sortOrder": 107,
+    "remark": "厨师",
+    "staffPosition": 2,
+    "staffEffect": 9,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 1120
+  },
+  {
+    "id": 1009,
+    "name": "快上菜",
+    "desc": "上菜耗时×0.90",
+    "techType": 99,
+    "param": [],
+    "unlock": [
+      103
+    ],
+    "cost": 150,
+    "researchTime": 2,
+    "sortOrder": 107,
+    "remark": "小二",
+    "staffPosition": 3,
+    "staffEffect": 6,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 900
+  },
+  {
+    "id": 1010,
+    "name": "快收账",
+    "desc": "收账耗时×0.80",
+    "techType": 99,
+    "param": [],
+    "unlock": [
+      105
+    ],
+    "cost": 150,
+    "researchTime": 2,
+    "sortOrder": 107,
+    "remark": "小二",
+    "staffPosition": 3,
+    "staffEffect": 7,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 800
+  },
+  {
+    "id": 1011,
+    "name": "疾行",
+    "desc": "移速×1.30",
+    "techType": 99,
+    "param": [],
+    "unlock": [
+      106
+    ],
+    "cost": 300,
+    "researchTime": 5,
+    "sortOrder": 107,
+    "remark": "小二",
+    "staffPosition": 3,
+    "staffEffect": 4,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 1300
+  },
+  {
+    "id": 1012,
+    "name": "涨价",
+    "desc": "菜品收入永久+5%",
+    "techType": 7,
+    "param": [
+      5
+    ],
+    "unlock": [
+      301
+    ],
+    "cost": 1200,
+    "researchTime": 7,
+    "sortOrder": 107,
+    "remark": "经营",
+    "staffEffect": 0,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 0
+  },
+  {
+    "id": 1013,
+    "name": "开启二楼",
+    "desc": "暂未开放",
+    "techType": 99,
+    "param": [],
+    "unlock": [],
+    "cost": 0,
+    "researchTime": 0,
+    "sortOrder": 107,
+    "remark": "经营·锁定",
+    "staffEffect": 0,
+    "effName": "",
+    "icon": "diandan",
+    "staffEffectValue": 0
+  },
+  {
+    "id": 1014,
+    "name": "顾客多多",
+    "desc": "刷客间隔缩短8秒",
+    "techType": 12,
+    "param": [
+      8
+    ],
+    "unlock": [
+      102
+    ],
+    "cost": 1000,
+    "researchTime": 10,
+    "sortOrder": 103,
+    "remark": "客流",
+    "staffEffect": 0,
+    "effName": "",
+    "icon": "lanke",
+    "staffEffectValue": 0
+  }
+]

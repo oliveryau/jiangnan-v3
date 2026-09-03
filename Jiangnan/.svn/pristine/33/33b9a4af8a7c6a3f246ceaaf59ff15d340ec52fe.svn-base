@@ -1,0 +1,614 @@
+[
+  {
+    "configName": "openingLoanAmount",
+    "value": [
+      10000
+    ]
+  },
+  {
+    "configName": "selfBuildingFieldId",
+    "value": [
+      7
+    ]
+  },
+  {
+    "configName": "tableCheckoutIncomeByLevel",
+    "value": [
+      55,
+      105,
+      155
+    ]
+  },
+  {
+    "configName": "tableCheckoutIncomeFloatRange",
+    "value": [
+      5
+    ]
+  },
+  {
+    "configName": "tavernExpandCosts",
+    "value": [
+      500
+    ]
+  },
+  {
+    "configName": "upgradeLevelMoney",
+    "value": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "configName": "upgradeLevelPresitige",
+    "value": [
+      700,
+      1700,
+      3400,
+      99999
+    ]
+  },
+  {
+    "configName": "normalCustomerTablePrestige",
+    "value": [
+      10
+    ]
+  },
+  {
+    "configName": "vipCustomerTablePrestige",
+    "value": [
+      50
+    ]
+  },
+  {
+    "configName": "orderTime",
+    "value": [
+      2
+    ]
+  },
+  {
+    "configName": "waiterServeTime",
+    "value": [
+      0
+    ]
+  },
+  {
+    "configName": "waiterCheckoutTime",
+    "value": [
+      0
+    ]
+  },
+  {
+    "configName": "tableCleanTime",
+    "value": [
+      2
+    ]
+  },
+  {
+    "configName": "chefCookTime",
+    "value": [
+      8
+    ]
+  },
+  {
+    "configName": "customerEatTime",
+    "value": [
+      5
+    ]
+  },
+  {
+    "configName": "customerWaitQueueGraceTime",
+    "value": [
+      24
+    ]
+  },
+  {
+    "configName": "customerWaitQueueBubbleTime",
+    "value": [
+      12
+    ]
+  },
+  {
+    "configName": "customerWaitOrderGraceTime",
+    "value": [
+      998
+    ]
+  },
+  {
+    "configName": "customerWaitOrderBubbleTime",
+    "value": [
+      999
+    ]
+  },
+  {
+    "configName": "businessHours",
+    "value": [
+      3600
+    ]
+  },
+  {
+    "configName": "customerRefreshTimeByLevel",
+    "value": [
+      10,
+      20,
+      18
+    ]
+  },
+  {
+    "configName": "waiterMaxStamina",
+    "value": [
+      4,
+      999,
+      999
+    ]
+  },
+  {
+    "configName": "waiterTableStaminaCost",
+    "value": [
+      1
+    ]
+  },
+  {
+    "configName": "waiterStaminaRecoverInterval",
+    "value": [
+      999
+    ]
+  },
+  {
+    "configName": "waiterWakeSpeedMultiplier",
+    "value": [
+      3
+    ]
+  },
+  {
+    "configName": "weakSpeedUpTime",
+    "value": [
+      8
+    ]
+  },
+  {
+    "configName": "chefMaxStamina",
+    "value": [
+      3,
+      999,
+      999
+    ]
+  },
+  {
+    "configName": "chefCookStaminaCost",
+    "value": [
+      1
+    ]
+  },
+  {
+    "configName": "chefStaminaRecoverInterval",
+    "value": [
+      999
+    ]
+  },
+  {
+    "configName": "chefWakeSpeedMultiplier",
+    "value": [
+      3
+    ]
+  },
+  {
+    "configName": "chefWeakSpeedUpTime",
+    "value": [
+      4
+    ]
+  },
+  {
+    "configName": "pullCustomerCooldownSeconds",
+    "value": [
+      60
+    ]
+  },
+  {
+    "configName": "jiaoziCapacity",
+    "value": [
+      10
+    ]
+  },
+  {
+    "configName": "otherTavernPullEnterInterval",
+    "value": [
+      10
+    ]
+  },
+  {
+    "configName": "otherTavernInitialQueueCount",
+    "value": [
+      4
+    ]
+  },
+  {
+    "configName": "ownTavernPulledTipChancePermille",
+    "value": [
+      500
+    ]
+  },
+  {
+    "configName": "vipSpawnChancePermille",
+    "value": [
+      0,
+      0,
+      100
+    ]
+  },
+  {
+    "configName": "rareSpawnChancePermille",
+    "value": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "configName": "vipCheckoutIncomeMultiplierPermille",
+    "value": [
+      2000
+    ]
+  },
+  {
+    "configName": "otherTavernPulledTipChancePermille",
+    "value": [
+      250
+    ]
+  },
+  {
+    "configName": "secondFloorVipCookDurationSeconds",
+    "value": [
+      1
+    ]
+  },
+  {
+    "configName": "secondFloorVipDineDurationSeconds",
+    "value": [
+      1
+    ]
+  },
+  {
+    "configName": "secondFloorVipDishIncome",
+    "value": [
+      69
+    ]
+  },
+  {
+    "configName": "pulledTipDismissPrestige",
+    "value": [
+      0
+    ]
+  },
+  {
+    "configName": "popularMenuCustomerRefreshReducePermille",
+    "value": [
+      0
+    ]
+  },
+  {
+    "configName": "vipMenuCheckoutUnitPriceBonusPermille",
+    "value": [
+      0
+    ]
+  },
+  {
+    "configName": "menuSwitchCooldownSeconds",
+    "value": [
+      10
+    ]
+  },
+  {
+    "configName": "secondFloorVipFinalCheckoutIncome",
+    "value": [
+      868
+    ]
+  },
+  {
+    "configName": "vipAttractSpawnChanceMultiplierPermille",
+    "value": [
+      1000
+    ]
+  },
+  {
+    "configName": "priceIncreaseCost",
+    "value": [
+      500
+    ]
+  },
+  {
+    "configName": "priceIncreaseProfitPercent",
+    "value": [
+      100
+    ]
+  },
+  {
+    "configName": "priceIncreaseDuration",
+    "value": [
+      30
+    ]
+  },
+  {
+    "configName": "inspireCost",
+    "value": [
+      500
+    ]
+  },
+  {
+    "configName": "inspireCustomerPercent",
+    "value": [
+      0
+    ]
+  },
+  {
+    "configName": "inspireDuration",
+    "value": [
+      0
+    ]
+  },
+  {
+    "configName": "customerFlowRampSeconds",
+    "value": [
+      90
+    ]
+  },
+  {
+    "configName": "speedUpCost",
+    "value": [
+      500
+    ]
+  },
+  {
+    "configName": "initialCustomerBurst",
+    "value": [
+      2
+    ]
+  },
+  {
+    "configName": "firstOpeningInitialCustomerBurst",
+    "value": [
+      2
+    ]
+  },
+  {
+    "configName": "tableLv2UpgradeUnlockCheckoutCount",
+    "value": [
+      20
+    ]
+  },
+  {
+    "configName": "counterRandomRewardInterval",
+    "value": [
+      20
+    ]
+  },
+  {
+    "configName": "counterRandomRewardCoinMin",
+    "value": [
+      49
+    ]
+  },
+  {
+    "configName": "counterRandomRewardCoinMax",
+    "value": [
+      301
+    ]
+  },
+  {
+    "configName": "waiterStealTime",
+    "value": [
+      10
+    ]
+  },
+  {
+    "configName": "waiterStealCooldown",
+    "value": [
+      30
+    ]
+  },
+  {
+    "configName": "staffRecruitCandidateCount",
+    "value": [
+      3
+    ]
+  },
+  {
+    "configName": "staffRecruitRefreshCosts",
+    "value": [
+      0,
+      100,
+      500,
+      1000,
+      3000
+    ]
+  },
+  {
+    "configName": "staffTalentNegativeWeight",
+    "value": [
+      70
+    ]
+  },
+  {
+    "configName": "staffTalentNormalWeight",
+    "value": [
+      25
+    ]
+  },
+  {
+    "configName": "staffTalentExcellentWeight",
+    "value": [
+      5
+    ]
+  },
+  {
+    "configName": "staffRecruitRefreshTime",
+    "value": [
+      60
+    ]
+  },
+  {
+    "configName": "customerRefreshTimeMin",
+    "value": [
+      0
+    ]
+  },
+  {
+    "configName": "customerRefreshTime",
+    "value": [
+      8
+    ]
+  },
+  {
+    "configName": "guideOpeningTableCount",
+    "value": [
+      1
+    ]
+  },
+  {
+    "configName": "guideRequiredBasicEquipmentCount",
+    "value": [
+      0
+    ]
+  },
+  {
+    "configName": "guideRequiredKitchenEquipmentCount",
+    "value": [
+      2
+    ]
+  },
+  {
+    "configName": "guideRequiredShopkeeperCount",
+    "value": [
+      1
+    ]
+  },
+  {
+    "configName": "guideRequiredChefCount",
+    "value": [
+      1
+    ]
+  },
+  {
+    "configName": "guideRequiredWaiterCount",
+    "value": [
+      1
+    ]
+  },
+  {
+    "configName": "shopkeeperEmployCost",
+    "value": [
+      900
+    ]
+  },
+  {
+    "configName": "chefEmployCost",
+    "value": [
+      600
+    ]
+  },
+  {
+    "configName": "waiterEmployCost",
+    "value": [
+      500
+    ]
+  },
+  {
+    "configName": "chefWakeStaminaRecover",
+    "value": [
+      5
+    ]
+  },
+  {
+    "configName": "waiterWakeStaminaRecover",
+    "value": [
+      4
+    ]
+  },
+  {
+    "configName": "peakCustomerWaveSeconds",
+    "value": [
+      90,
+      1000,
+      1000,
+      1000,
+      1000
+    ]
+  },
+  {
+    "configName": "peakCustomerBatchCount",
+    "value": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "configName": "peakCustomerBatchIntervalSeconds",
+    "value": [
+      24
+    ]
+  },
+  {
+    "configName": "peakCustomerBatchSize",
+    "value": [
+      24
+    ]
+  },
+  {
+    "configName": "valleyCustomerSecondWaveSeconds",
+    "value": [
+      0,
+      1999,
+      1999,
+      1999
+    ]
+  },
+  {
+    "configName": "valleyCustomerBatchCount",
+    "value": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "configName": "valleyCustomerBatchIntervalSeconds",
+    "value": [
+      18
+    ]
+  },
+  {
+    "configName": "valleyCustomerBatchSize",
+    "value": [
+      12
+    ]
+  },
+  {
+    "configName": "customerWaitServeGraceTime",
+    "value": [
+      998
+    ]
+  },
+  {
+    "configName": "customerWaitServeBubbleTime",
+    "value": [
+      999
+    ]
+  },
+  {
+    "configName": "customerWaitCheckoutGraceTime",
+    "value": [
+      998
+    ]
+  },
+  {
+    "configName": "customerWaitCheckoutBubbleTime",
+    "value": [
+      999
+    ]
+  }
+]

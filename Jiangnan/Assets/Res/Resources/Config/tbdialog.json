@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "dialogId": "first_enter",
+    "order": 1,
+    "headPic": "qiantai",
+    "content": "老板好!我会努力工作的!"
+  },
+  {
+    "id": 2,
+    "dialogId": "first_enter",
+    "order": 2,
+    "headPic": "qiantai",
+    "content": "一星酒楼就能开业啦，采买家具能积攒不少声望哦"
+  },
+  {
+    "id": 3,
+    "dialogId": "employ",
+    "order": 1,
+    "headPic": "qiantai",
+    "content": "招两个员工，帮忙打个下手吧"
+  },
+  {
+    "id": 4,
+    "dialogId": "update",
+    "order": 1,
+    "headPic": "qiantai",
+    "content": "现在声望足够了，把酒楼升级一番吧"
+  },
+  {
+    "id": 5,
+    "dialogId": "opening",
+    "order": 1,
+    "headPic": "qiantai",
+    "content": "万事俱备，请老板剪彩开业吧"
+  },
+  {
+    "id": 6,
+    "dialogId": "HireStaff_enter",
+    "order": 1,
+    "headPic": "qiantai",
+    "content": "如果客人少，可以买顶轿子去别人店拉客哦"
+  },
+  {
+    "id": 7,
+    "dialogId": "UnlockMenu",
+    "order": 1,
+    "headPic": "qiantai",
+    "content": "东家东家！菜单印好啦，客人们进门就能点菜咯！"
+  },
+  {
+    "id": 8,
+    "dialogId": "UnlockMenu",
+    "order": 2,
+    "headPic": "qiantai",
+    "content": "正面平价管饱，给大众客人；反面招牌好菜，专伺候贵客！"
+  }
+]

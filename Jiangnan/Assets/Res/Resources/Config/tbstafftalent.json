@@ -1,0 +1,628 @@
+[
+  {
+    "id": 1000,
+    "name": "无天赋",
+    "desc": "暂无特殊天赋效果",
+    "position": 3,
+    "talentType": 0,
+    "param": [
+      0
+    ],
+    "sortOrder": 1000,
+    "remark": "无天赋占位配置，不产生任何效果"
+  },
+  {
+    "id": 1001,
+    "name": "腿脚麻利",
+    "desc": "更快的移动速度",
+    "position": 3,
+    "talentType": 1,
+    "param": [
+      10
+    ],
+    "sortOrder": 1001,
+    "remark": "效率类·移动"
+  },
+  {
+    "id": 1002,
+    "name": "口齿伶俐",
+    "desc": "更快的点菜速度",
+    "position": 3,
+    "talentType": 2,
+    "param": [
+      10
+    ],
+    "sortOrder": 1002,
+    "remark": "效率类·点菜"
+  },
+  {
+    "id": 1003,
+    "name": "托盘稳当",
+    "desc": "更快的上菜速度",
+    "position": 3,
+    "talentType": 3,
+    "param": [
+      10
+    ],
+    "sortOrder": 1003,
+    "remark": "效率类·上菜"
+  },
+  {
+    "id": 1004,
+    "name": "心算如飞",
+    "desc": "更快的收账速度",
+    "position": 3,
+    "talentType": 4,
+    "param": [
+      10
+    ],
+    "sortOrder": 1004,
+    "remark": "效率类·收账"
+  },
+  {
+    "id": 1005,
+    "name": "手脚勤快",
+    "desc": "更快的清扫速度",
+    "position": 3,
+    "talentType": 5,
+    "param": [
+      25
+    ],
+    "sortOrder": 1005,
+    "remark": "效率类·清扫"
+  },
+  {
+    "id": 1006,
+    "name": "眼疾手快",
+    "desc": "所有速度都会更加快",
+    "position": 3,
+    "talentType": 6,
+    "param": [
+      8
+    ],
+    "sortOrder": 1006,
+    "remark": "综合效率类"
+  },
+  {
+    "id": 1007,
+    "name": "步履如常",
+    "desc": "普通的移动速度",
+    "position": 3,
+    "talentType": 1,
+    "param": [
+      0
+    ],
+    "sortOrder": 1007,
+    "remark": "效率类·移动"
+  },
+  {
+    "id": 1008,
+    "name": "言辞普通",
+    "desc": "普通的点菜速度",
+    "position": 3,
+    "talentType": 2,
+    "param": [
+      0
+    ],
+    "sortOrder": 1008,
+    "remark": "效率类·点菜"
+  },
+  {
+    "id": 1009,
+    "name": "端递守常",
+    "desc": "普通的上菜速度",
+    "position": 3,
+    "talentType": 3,
+    "param": [
+      0
+    ],
+    "sortOrder": 1009,
+    "remark": "效率类·上菜"
+  },
+  {
+    "id": 1010,
+    "name": "算账无错",
+    "desc": "普通的收账速度",
+    "position": 3,
+    "talentType": 4,
+    "param": [
+      0
+    ],
+    "sortOrder": 1010,
+    "remark": "效率类·收账"
+  },
+  {
+    "id": 1011,
+    "name": "洒扫应付",
+    "desc": "普通的清扫速度",
+    "position": 3,
+    "talentType": 5,
+    "param": [
+      0
+    ],
+    "sortOrder": 1011,
+    "remark": "效率类·清扫"
+  },
+  {
+    "id": 1012,
+    "name": "不紧不慢",
+    "desc": "所有速度都普通",
+    "position": 3,
+    "talentType": 6,
+    "param": [
+      0
+    ],
+    "sortOrder": 1012,
+    "remark": "综合效率类"
+  },
+  {
+    "id": 1013,
+    "name": "步履蹒跚",
+    "desc": "稍慢的移动速度",
+    "position": 3,
+    "talentType": 1,
+    "param": [
+      -10
+    ],
+    "sortOrder": 1013,
+    "remark": "效率类·移动"
+  },
+  {
+    "id": 1014,
+    "name": "言迟语钝",
+    "desc": "稍慢的点菜速度",
+    "position": 3,
+    "talentType": 2,
+    "param": [
+      -10
+    ],
+    "sortOrder": 1014,
+    "remark": "效率类·点菜"
+  },
+  {
+    "id": 1015,
+    "name": "盘端不稳",
+    "desc": "稍慢的上菜速度",
+    "position": 3,
+    "talentType": 3,
+    "param": [
+      -10
+    ],
+    "sortOrder": 1015,
+    "remark": "效率类·上菜"
+  },
+  {
+    "id": 1016,
+    "name": "账目糊涂",
+    "desc": "稍慢的收账速度",
+    "position": 3,
+    "talentType": 4,
+    "param": [
+      -10
+    ],
+    "sortOrder": 1016,
+    "remark": "效率类·收账"
+  },
+  {
+    "id": 1017,
+    "name": "拖泥带水",
+    "desc": "稍慢的清扫速度",
+    "position": 3,
+    "talentType": 5,
+    "param": [
+      -30
+    ],
+    "sortOrder": 1017,
+    "remark": "效率类·清扫"
+  },
+  {
+    "id": 1018,
+    "name": "笨手笨脚",
+    "desc": "所有速度都会稍慢",
+    "position": 3,
+    "talentType": 6,
+    "param": [
+      -8
+    ],
+    "sortOrder": 1018,
+    "remark": "综合效率类"
+  },
+  {
+    "id": 1302,
+    "name": "前厅管理",
+    "desc": "所有店员的服务效率提高",
+    "position": 1,
+    "talentType": 25,
+    "param": [
+      10
+    ],
+    "sortOrder": 1302,
+    "remark": "前厅管理·增加全体效率"
+  },
+  {
+    "id": 1303,
+    "name": "后厨统筹",
+    "desc": "所有厨师的烹饪效率提高",
+    "position": 1,
+    "talentType": 26,
+    "param": [
+      10
+    ],
+    "sortOrder": 1303,
+    "remark": "后厨管理·增加全体效率"
+  },
+  {
+    "id": 1304,
+    "name": "高峰动员",
+    "desc": "上座率高的时候，所有员工工作效率都提高",
+    "position": 1,
+    "talentType": 27,
+    "param": [
+      70,
+      12
+    ],
+    "sortOrder": 1304,
+    "remark": "前厅管理·高峰增益"
+  },
+  {
+    "id": 1305,
+    "name": "清理督促",
+    "desc": "提高所有店员的清扫速度",
+    "position": 1,
+    "talentType": 28,
+    "param": [
+      10
+    ],
+    "sortOrder": 1305,
+    "remark": "前厅管理·清扫速度"
+  },
+  {
+    "id": 1306,
+    "name": "上菜通顺",
+    "desc": "提高所有店员的上菜速度",
+    "position": 1,
+    "talentType": 29,
+    "param": [
+      10
+    ],
+    "sortOrder": 1306,
+    "remark": "前厅管理·上菜速度"
+  },
+  {
+    "id": 1307,
+    "name": "收账不乱",
+    "desc": "提高所有店员的收账速度",
+    "position": 1,
+    "talentType": 30,
+    "param": [
+      10
+    ],
+    "sortOrder": 1307,
+    "remark": "前厅管理·收账速度"
+  },
+  {
+    "id": 1308,
+    "name": "点菜有序",
+    "desc": "提高所有店员的点菜速度",
+    "position": 1,
+    "talentType": 31,
+    "param": [
+      10
+    ],
+    "sortOrder": 1308,
+    "remark": "前厅管理·点菜速度"
+  },
+  {
+    "id": 1309,
+    "name": "慧眼识人",
+    "desc": "降低招聘员工的一次性费用",
+    "position": 1,
+    "talentType": 32,
+    "param": [
+      15
+    ],
+    "sortOrder": 1309,
+    "remark": "管理经营类·招聘费用"
+  },
+  {
+    "id": 1310,
+    "name": "账目清晰",
+    "desc": "降低全体员工的每日工资支出",
+    "position": 1,
+    "talentType": 33,
+    "param": [
+      8
+    ],
+    "sortOrder": 1310,
+    "remark": "管理经营类·工资支出"
+  },
+  {
+    "id": 1311,
+    "name": "贵客盈门",
+    "desc": "提高该店面的贵客吸引力",
+    "position": 1,
+    "talentType": 34,
+    "param": [
+      25
+    ],
+    "sortOrder": 1311,
+    "remark": "管理经营类·贵客吸引力"
+  },
+  {
+    "id": 1312,
+    "name": "调度有方",
+    "desc": "提高该店面所有员工的工作效率",
+    "position": 1,
+    "talentType": 35,
+    "param": [
+      5
+    ],
+    "sortOrder": 1312,
+    "remark": "全体管理·增加全体效率"
+  },
+  {
+    "id": 2001,
+    "name": "火候老道",
+    "desc": "更快的做菜速度",
+    "position": 2,
+    "talentType": 36,
+    "param": [
+      20
+    ],
+    "sortOrder": 2001,
+    "remark": "效率类·做菜"
+  },
+  {
+    "id": 2002,
+    "name": "精准分量",
+    "desc": "制作完成时候有概率额外获得1份相同的菜",
+    "position": 2,
+    "talentType": 37,
+    "param": [
+      1
+    ],
+    "sortOrder": 2002,
+    "remark": "机制类·额外产出"
+  },
+  {
+    "id": 2003,
+    "name": "火候尚可",
+    "desc": "正常的做菜速度",
+    "position": 2,
+    "talentType": 36,
+    "param": [
+      0
+    ],
+    "sortOrder": 2004,
+    "remark": "效率类·做菜"
+  },
+  {
+    "id": 2004,
+    "name": "火候欠佳",
+    "desc": "稍慢的做菜速度",
+    "position": 2,
+    "talentType": 36,
+    "param": [
+      -10
+    ],
+    "sortOrder": 2005,
+    "remark": "效率类·做菜"
+  },
+  {
+    "id": 10001,
+    "name": "精打细算",
+    "desc": "该厨师制作菜品时有概率不消耗的食材",
+    "position": 2,
+    "talentType": 38,
+    "param": [
+      20
+    ],
+    "sortOrder": 0,
+    "remark": "机制类·节省食材"
+  },
+  {
+    "id": 10002,
+    "name": "不知疲倦",
+    "desc": "体力消耗的更慢",
+    "position": 3,
+    "talentType": 7,
+    "param": [
+      40
+    ],
+    "sortOrder": 0,
+    "remark": "长时间营业"
+  },
+  {
+    "id": 10003,
+    "name": "笑脸迎人",
+    "desc": "服务过的顾客更耐心",
+    "position": 3,
+    "talentType": 8,
+    "param": [
+      10
+    ],
+    "sortOrder": 0,
+    "remark": "经营类·顾客耐心"
+  },
+  {
+    "id": 10004,
+    "name": "八面玲珑",
+    "desc": "服务过的顾客收账费用提高",
+    "position": 3,
+    "talentType": 9,
+    "param": [
+      10
+    ],
+    "sortOrder": 0,
+    "remark": "经营类·收账"
+  },
+  {
+    "id": 10005,
+    "name": "能说会道",
+    "desc": "更快的拉客速度",
+    "position": 3,
+    "talentType": 10,
+    "param": [
+      30
+    ],
+    "sortOrder": 0,
+    "remark": "经营类·拉客"
+  },
+  {
+    "id": 10006,
+    "name": "宾至如归",
+    "desc": "服务过的顾客更满意",
+    "position": 3,
+    "talentType": 11,
+    "param": [
+      15
+    ],
+    "sortOrder": 0,
+    "remark": "经营类·满意度"
+  },
+  {
+    "id": 10007,
+    "name": "贵客眼力",
+    "desc": "服务贵客更有工作效率",
+    "position": 3,
+    "talentType": 12,
+    "param": [
+      40
+    ],
+    "sortOrder": 0,
+    "remark": "经营类·贵客"
+  },
+  {
+    "id": 10008,
+    "name": "推菜巧嘴",
+    "desc": "顾客更加愿意点选高价菜",
+    "position": 3,
+    "talentType": 13,
+    "param": [
+      15
+    ],
+    "sortOrder": 0,
+    "remark": "经营类·提高客单价"
+  },
+  {
+    "id": 10009,
+    "name": "酒桌好手",
+    "desc": "顾客更加愿意购买酒水",
+    "position": 3,
+    "talentType": 14,
+    "param": [
+      30
+    ],
+    "sortOrder": 0,
+    "remark": "经营类·酒水"
+  },
+  {
+    "id": 10010,
+    "name": "大托盘",
+    "desc": "每次可以同时携带4份菜品",
+    "position": 3,
+    "talentType": 15,
+    "param": [
+      4
+    ],
+    "sortOrder": 0,
+    "remark": "机制类·多份上菜"
+  },
+  {
+    "id": 10011,
+    "name": "过目不忘",
+    "desc": "可以连续记录4桌订单，再统一提交后厨",
+    "position": 3,
+    "talentType": 16,
+    "param": [
+      4
+    ],
+    "sortOrder": 0,
+    "remark": "机制类·批量点单"
+  },
+  {
+    "id": 10012,
+    "name": "顺手收拾",
+    "desc": "上菜后若附近有脏桌，会顺路进行清扫",
+    "position": 3,
+    "talentType": 17,
+    "param": [
+      1
+    ],
+    "sortOrder": 0,
+    "remark": "机制类·顺路清扫"
+  },
+  {
+    "id": 10013,
+    "name": "见机行事",
+    "desc": "空闲时自动支援当前积压最多的工作",
+    "position": 3,
+    "talentType": 18,
+    "param": [
+      1
+    ],
+    "sortOrder": 0,
+    "remark": "机制类·自动支援"
+  },
+  {
+    "id": 10014,
+    "name": "先来后到",
+    "desc": "优先处理等待时间最长的顾客",
+    "position": 3,
+    "talentType": 19,
+    "param": [
+      1
+    ],
+    "sortOrder": 0,
+    "remark": "机制类·任务排序"
+  },
+  {
+    "id": 10015,
+    "name": "急客优先",
+    "desc": "优先服务耐心低的顾客",
+    "position": 3,
+    "talentType": 20,
+    "param": [
+      30
+    ],
+    "sortOrder": 0,
+    "remark": "机制类·低耐心优先"
+  },
+  {
+    "id": 10016,
+    "name": "越忙越快",
+    "desc": "店内上座率高的时候，工作效率提高",
+    "position": 3,
+    "talentType": 21,
+    "param": [
+      70,
+      25
+    ],
+    "sortOrder": 0,
+    "remark": "机制类·高峰增益"
+  },
+  {
+    "id": 10017,
+    "name": "钱货两清",
+    "desc": "收账后立即清理该桌",
+    "position": 3,
+    "talentType": 22,
+    "param": [
+      1
+    ],
+    "sortOrder": 0,
+    "remark": "机制类·收账后清桌"
+  },
+  {
+    "id": 10018,
+    "name": "调度有方",
+    "desc": "减少员工的体力消耗",
+    "position": 1,
+    "talentType": 23,
+    "param": [
+      1
+    ],
+    "sortOrder": 0,
+    "remark": "前厅管理·减少任务间隔"
+  }
+]

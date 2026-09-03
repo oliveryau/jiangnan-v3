@@ -1,0 +1,182 @@
+[
+  {
+    "configName": "customerRefreshTime",
+    "value": 14
+  },
+  {
+    "configName": "chefCookTime",
+    "value": 5
+  },
+  {
+    "configName": "customerEatTime",
+    "value": 10
+  },
+  {
+    "configName": "tableCleanTime",
+    "value": 5
+  },
+  {
+    "configName": "waiterOrderTime",
+    "value": 3
+  },
+  {
+    "configName": "guideOpeningTableCount",
+    "value": 2
+  },
+  {
+    "configName": "guideRequiredBasicEquipmentCount",
+    "value": 0
+  },
+  {
+    "configName": "guideRequiredKitchenEquipmentCount",
+    "value": 2
+  },
+  {
+    "configName": "guideRequiredShopkeeperCount",
+    "value": 0
+  },
+  {
+    "configName": "guideRequiredChefCount",
+    "value": 1
+  },
+  {
+    "configName": "guideRequiredWaiterCount",
+    "value": 1
+  },
+  {
+    "configName": "shopkeeperEmployCost",
+    "value": 300
+  },
+  {
+    "configName": "chefEmployCost",
+    "value": 300
+  },
+  {
+    "configName": "waiterEmployCost",
+    "value": 300
+  },
+  {
+    "configName": "priceIncreaseCost",
+    "value": 500
+  },
+  {
+    "configName": "priceIncreaseProfitPercent",
+    "value": 100
+  },
+  {
+    "configName": "priceIncreaseDuration",
+    "value": 30
+  },
+  {
+    "configName": "inspireCost",
+    "value": 500
+  },
+  {
+    "configName": "inspireCustomerPercent",
+    "value": 100
+  },
+  {
+    "configName": "inspireDuration",
+    "value": 30
+  },
+  {
+    "configName": "waiterCheckoutTime",
+    "value": 3
+  },
+  {
+    "configName": "waiterStealTime",
+    "value": 10
+  },
+  {
+    "configName": "waiterStealCooldown",
+    "value": 30
+  },
+  {
+    "configName": "weakSpeedUpTime",
+    "value": 10
+  },
+  {
+    "configName": "waiterMaxStamina",
+    "value": 5
+  },
+  {
+    "configName": "waiterTableStaminaCost",
+    "value": 1
+  },
+  {
+    "configName": "waiterStaminaRecoverInterval",
+    "value": 30
+  },
+  {
+    "configName": "waiterWakeSpeedMultiplier",
+    "value": 2
+  },
+  {
+    "configName": "waiterWakeStaminaRecover",
+    "value": 3
+  },
+  {
+    "configName": "customerRefreshTimeMin",
+    "value": 7
+  },
+  {
+    "configName": "customerFlowRampSeconds",
+    "value": 180
+  },
+  {
+    "configName": "speedUpCost",
+    "value": 500
+  },
+  {
+    "configName": "businessHours",
+    "value": 300
+  },
+  {
+    "configName": "peakCustomerWaveSeconds",
+    "value": [
+      60,
+      0,
+      120,
+      60,
+      0
+    ]
+  },
+  {
+    "configName": "peakCustomerBatchCount",
+    "value": [
+      5,
+      6,
+      7,
+      6,
+      5
+    ]
+  },
+  {
+    "configName": "valleyCustomerSecondWaveSeconds",
+    "value": [
+      140,
+      130,
+      120,
+      130,
+      110
+    ]
+  },
+  {
+    "configName": "valleyCustomerBatchCount",
+    "value": [
+      2
+    ]
+  },
+  {
+    "configName": "valleyCustomerBatchSize",
+    "value": [
+      2
+    ]
+  },
+  {
+    "configName": "valleyCustomerBatchIntervalSeconds",
+    "value": [
+      10
+    ]
+  }
+]

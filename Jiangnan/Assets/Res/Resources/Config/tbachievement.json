@@ -1,0 +1,730 @@
+[
+  {
+    "id": 1,
+    "name": "置办家什",
+    "desc": "购买设施",
+    "achievementType": 29,
+    "param": [
+      4
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 2,
+    "name": "招募伙计",
+    "desc": "招募伙计",
+    "achievementType": 30,
+    "param": [
+      3
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 3,
+    "name": "升级酒楼",
+    "desc": "升级酒楼",
+    "achievementType": 31,
+    "param": [
+      1
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 4,
+    "name": "新店开张",
+    "desc": "开店营业",
+    "achievementType": 4,
+    "param": [
+      1
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 5,
+    "name": "首笔进账",
+    "desc": "收钱1桌",
+    "achievementType": 32,
+    "param": [
+      1
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 6,
+    "name": "宾客盈门",
+    "desc": "招待6位客人",
+    "achievementType": 1,
+    "param": [
+      6
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 7,
+    "name": "中酒楼",
+    "desc": "升级酒楼",
+    "achievementType": 31,
+    "param": [
+      2
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 8,
+    "name": "扩建",
+    "desc": "扩建新区域",
+    "achievementType": 35,
+    "param": [
+      1
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 9,
+    "name": "增雇伙计",
+    "desc": "招募新伙计",
+    "achievementType": 5,
+    "param": [
+      5
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 10,
+    "name": "进账",
+    "desc": "收钱3桌",
+    "achievementType": 32,
+    "param": [
+      3
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 11,
+    "name": "外出揽客",
+    "desc": "成功拉客1次",
+    "achievementType": 34,
+    "param": [
+      1
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 12,
+    "name": "宾客盈门",
+    "desc": "招待12位客人",
+    "achievementType": 1,
+    "param": [
+      12
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 13,
+    "name": "大酒楼",
+    "desc": "升级酒楼",
+    "achievementType": 31,
+    "param": [
+      3
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 14,
+    "name": "楼梯",
+    "desc": "扩建二楼",
+    "achievementType": 36,
+    "param": [
+      1
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 15,
+    "name": "贵客登楼",
+    "desc": "接待贵客",
+    "achievementType": 11,
+    "param": [
+      1
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 16,
+    "name": "日有所得",
+    "desc": "收钱8桌",
+    "achievementType": 32,
+    "param": [
+      8
+    ],
+    "rewardCoin": 0,
+    "reputationReward": 100,
+    "icon": "",
+    "level": 1,
+    "frame": ""
+  },
+  {
+    "id": 10000,
+    "name": "初出茅庐",
+    "desc": "累计招待 10 位客人",
+    "achievementType": 1,
+    "param": [
+      10
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\5keren",
+    "level": 2,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\002tong"
+  },
+  {
+    "id": 10001,
+    "name": "宾客盈门",
+    "desc": "累计招待 50 位客人",
+    "achievementType": 1,
+    "param": [
+      50
+    ],
+    "rewardCoin": 200,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\5keren",
+    "level": 3,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\003yin"
+  },
+  {
+    "id": 10002,
+    "name": "高朋满座",
+    "desc": "累计招待 200 位客人",
+    "achievementType": 1,
+    "param": [
+      200
+    ],
+    "rewardCoin": 500,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\5keren",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10003,
+    "name": "门庭若市",
+    "desc": "累计招待 500 位客人",
+    "achievementType": 1,
+    "param": [
+      500
+    ],
+    "rewardCoin": 2000,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\5keren",
+    "level": 5,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\005cui"
+  },
+  {
+    "id": 10004,
+    "name": "小有积蓄",
+    "desc": "生涯累计赚取 200 铜钱",
+    "achievementType": 2,
+    "param": [
+      200
+    ],
+    "rewardCoin": 100,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\9zhuanqian",
+    "level": 2,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\002tong"
+  },
+  {
+    "id": 10005,
+    "name": "日进斗金",
+    "desc": "生涯累计赚取 6000 铜钱",
+    "achievementType": 2,
+    "param": [
+      6000
+    ],
+    "rewardCoin": 300,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\9zhuanqian",
+    "level": 3,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\003yin"
+  },
+  {
+    "id": 10006,
+    "name": "富甲一方",
+    "desc": "生涯累计赚取 50000 铜钱",
+    "achievementType": 2,
+    "param": [
+      50000
+    ],
+    "rewardCoin": 1000,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\9zhuanqian",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10007,
+    "name": "富可敌国",
+    "desc": "生涯累计赚取 100000 铜钱",
+    "achievementType": 2,
+    "param": [
+      100000
+    ],
+    "rewardCoin": 5000,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\9zhuanqian",
+    "level": 5,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\005cui"
+  },
+  {
+    "id": 10008,
+    "name": "初试厨技",
+    "desc": "累计做出 20 道菜",
+    "achievementType": 3,
+    "param": [
+      20
+    ],
+    "rewardCoin": 60,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\13cai",
+    "level": 2,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\002tong"
+  },
+  {
+    "id": 10009,
+    "name": "灶火连天",
+    "desc": "累计做出 100 道菜",
+    "achievementType": 3,
+    "param": [
+      100
+    ],
+    "rewardCoin": 250,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\13cai",
+    "level": 3,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\003yin"
+  },
+  {
+    "id": 10010,
+    "name": "珍馐千席",
+    "desc": "累计做出 500 道菜",
+    "achievementType": 3,
+    "param": [
+      500
+    ],
+    "rewardCoin": 800,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\13cai",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10011,
+    "name": "御膳名厨",
+    "desc": "累计做出 2000 道菜",
+    "achievementType": 3,
+    "param": [
+      2000
+    ],
+    "rewardCoin": 1500,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\13cai",
+    "level": 5,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\005cui"
+  },
+  {
+    "id": 10012,
+    "name": "广纳贤才",
+    "desc": "同时雇佣 3 位员工",
+    "achievementType": 5,
+    "param": [
+      3
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\17yuangong",
+    "level": 3,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\003yin"
+  },
+  {
+    "id": 10013,
+    "name": "人才济济",
+    "desc": "同时雇佣 6 位员工",
+    "achievementType": 5,
+    "param": [
+      6
+    ],
+    "rewardCoin": 600,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\17yuangong",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10014,
+    "name": "卧虎藏龙",
+    "desc": "累计解锁 5 种不同员工天赋",
+    "achievementType": 7,
+    "param": [
+      5
+    ],
+    "rewardCoin": 500,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\19canglongwohu",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10015,
+    "name": "扩店经营",
+    "desc": "累计放置 1 张桌子",
+    "achievementType": 8,
+    "param": [
+      1
+    ],
+    "rewardCoin": 100,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\20zhuozi",
+    "level": 3,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\003yin"
+  },
+  {
+    "id": 10016,
+    "name": "连锁名酒楼",
+    "desc": "累计放置 6 张桌子",
+    "achievementType": 8,
+    "param": [
+      6
+    ],
+    "rewardCoin": 500,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\20zhuozi",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10017,
+    "name": "贵客临门",
+    "desc": "累计招待 1 位贵宾",
+    "achievementType": 10,
+    "param": [
+      1
+    ],
+    "rewardCoin": 100,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\22guibin",
+    "level": 3,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\003yin"
+  },
+  {
+    "id": 10018,
+    "name": "座上宾",
+    "desc": "累计成功招待 10 位贵宾",
+    "achievementType": 11,
+    "param": [
+      10
+    ],
+    "rewardCoin": 250,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\22guibin",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10019,
+    "name": "一掷千金",
+    "desc": "单桌贵宾消费达到 500 铜钱",
+    "achievementType": 12,
+    "param": [
+      500
+    ],
+    "rewardCoin": 300,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\24xiaofei",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10020,
+    "name": "贵宾云集",
+    "desc": "同时接待 3 位贵宾",
+    "achievementType": 13,
+    "param": [
+      3
+    ],
+    "rewardCoin": 500,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\25sangeguike",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10021,
+    "name": "贵客不候",
+    "desc": "累计 1 位贵宾负向离场",
+    "achievementType": 14,
+    "param": [
+      1
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\26guikezou",
+    "level": 1,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\001mu"
+  },
+  {
+    "id": 10022,
+    "name": "完美的一天",
+    "desc": "完成 1 次营业日，没有客人离开",
+    "achievementType": 15,
+    "param": [
+      1
+    ],
+    "rewardCoin": 300,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\27wanmeiyitian",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10023,
+    "name": "翻台如流水",
+    "desc": "单日成功招待 30 位客人",
+    "achievementType": 16,
+    "param": [
+      30
+    ],
+    "rewardCoin": 200,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\28danri",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10024,
+    "name": "排队长龙",
+    "desc": "门口排队人数同时达到 10",
+    "achievementType": 18,
+    "param": [
+      10
+    ],
+    "rewardCoin": 150,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\28yuangong",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10025,
+    "name": "忙不过来",
+    "desc": "同时有 5 份已出菜品等待上菜",
+    "achievementType": 19,
+    "param": [
+      5
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\29paidui",
+    "level": 1,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\001mu"
+  },
+  {
+    "id": 10026,
+    "name": "为什么不收钱？",
+    "desc": "同时有 5 桌客人等待结账",
+    "achievementType": 20,
+    "param": [
+      5
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\30manbuguolia",
+    "level": 1,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\001mu"
+  },
+  {
+    "id": 10027,
+    "name": "抹布没有洗好呢!",
+    "desc": "同时有 5 桌没清理",
+    "achievementType": 21,
+    "param": [
+      5
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\32weisheng",
+    "level": 1,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\001mu"
+  },
+  {
+    "id": 10028,
+    "name": "客人好没耐心！",
+    "desc": "累计 5 位顾客因上菜过慢而离场",
+    "achievementType": 22,
+    "param": [
+      5
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\33taiman",
+    "level": 1,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\001mu"
+  },
+  {
+    "id": 10029,
+    "name": "这店竟然这么火？",
+    "desc": "累计 3 位顾客因等待排队过久而离场",
+    "achievementType": 23,
+    "param": [
+      3
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\34taijiu",
+    "level": 1,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\001mu"
+  },
+  {
+    "id": 10030,
+    "name": "全能店老板",
+    "desc": "累计手动完成 30 次操作",
+    "achievementType": 24,
+    "param": [
+      30
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\35laoban",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10031,
+    "name": "甩手掌柜",
+    "desc": "完成 1 次全程无手动操作的营业日",
+    "achievementType": 25,
+    "param": [
+      1
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\36shuaishou",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10032,
+    "name": "赔本赚吆喝",
+    "desc": "完成 1 次净利润为负的营业日",
+    "achievementType": 27,
+    "param": [
+      1
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\37peiqian",
+    "level": 1,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\001mu"
+  },
+  {
+    "id": 10033,
+    "name": "酒店经营高手",
+    "desc": "完成 9 项成就",
+    "achievementType": 28,
+    "param": [
+      9
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\38jingying",
+    "level": 3,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\003yin"
+  },
+  {
+    "id": 10034,
+    "name": "酒店经营大师",
+    "desc": "完成 19 项成就",
+    "achievementType": 28,
+    "param": [
+      19
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\38jingying",
+    "level": 4,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\004jin"
+  },
+  {
+    "id": 10035,
+    "name": "这游戏是你做的？",
+    "desc": "完成 39 项成就",
+    "achievementType": 28,
+    "param": [
+      37
+    ],
+    "rewardCoin": 50,
+    "reputationReward": 30,
+    "icon": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\38jingying",
+    "level": 5,
+    "frame": "Assets\\Res\\Resources\\Textures\\UI\\Achievement\\005cui"
+  }
+]

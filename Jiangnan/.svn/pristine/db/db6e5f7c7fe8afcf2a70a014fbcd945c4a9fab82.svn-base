@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "鸭鸭",
+    "playerId": 1001,
+    "fieldId": 2,
+    "buildingLevel": 3,
+    "hotMark": 1,
+    "headIconId": 4
+  },
+  {
+    "id": 2,
+    "name": "juju",
+    "playerId": 1002,
+    "fieldId": 3,
+    "buildingLevel": 2,
+    "hotMark": 0,
+    "headIconId": 5
+  },
+  {
+    "id": 3,
+    "name": "小高",
+    "playerId": 1003,
+    "fieldId": 5,
+    "buildingLevel": 2,
+    "hotMark": 0,
+    "headIconId": 6
+  },
+  {
+    "id": 4,
+    "name": "冷总",
+    "playerId": 1004,
+    "fieldId": 6,
+    "buildingLevel": 2,
+    "hotMark": 0,
+    "headIconId": 7
+  }
+]
